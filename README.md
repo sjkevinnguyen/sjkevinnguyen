@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Kevin. 👋
 
 <!--
 **sjkevinnguyen/sjkevinnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I usually code things I am interested in.
+- I'm currently progressing on the Odin Project.
+- I mainly code with Python, but I am familiar with Java.
