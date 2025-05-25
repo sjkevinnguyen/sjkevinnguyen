@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I usually code things I am interested in.
-- I'm currently progressing on the Odin Project.
+- I usually code things I am interested in.
+- ⚡I'm currently progressing on the Odin Project.
 - I mainly code with Python, but I am familiar with Java.
